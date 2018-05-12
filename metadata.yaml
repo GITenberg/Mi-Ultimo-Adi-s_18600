@@ -17,6 +17,8 @@ creator:
     - http://www.joserizal.ph/
     - http://en.wikipedia.org/wiki/José_Rizal
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18600#Mi-Ultimo-Adi-s
 gutenberg_issued: '2006-06-16'
 gutenberg_type: Text
 identifiers:
